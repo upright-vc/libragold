@@ -2,7 +2,7 @@
 LibraGold Makes Libra & Blockchain Development Easier & Faster.
 We provides Libra Blockchain-as-a-Service (Baas) - makes it easy to build blockchain enabled applications for non-developers and developers alike.
 
-This project is supported by the Libracamp grant program
+This project is supported by the Libracamp grant program.
 
 # LibraGold Blockchain API
 Using the LibraGold Blockchain API allows your organization to interact different blockchain with one single API. Its cloud based and multiple hosted full blockchain nodes enable high availability, high throughput and high security
