@@ -1,6 +1,6 @@
 # LibraGold
 LibraGold Makes Libra & Blockchain Development Easier & Faster.
-We provides Libra Web Services - makes it easy to build blockchain enabled applications for non-developers and developers alike.
+We provides Libra Blockchain Web Services - makes it easy to build blockchain enabled applications for non-developers and developers alike.
 
 This project is supported by the Libracamp grant program.
 
